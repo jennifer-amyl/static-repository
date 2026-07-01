@@ -14,4 +14,5 @@ This is a simple static shopping website created using HTML.
 
 ## Live Website
 
-https://github.com/jennifer-amyl/static-repository/tree/main
+[https://github.com/jennifer-amyl/static-repository/tree/main
+](https://jennifer-amyl.github.io/static-repository/)
